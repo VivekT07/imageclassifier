@@ -7,7 +7,7 @@ import os
 import numpy as np 
 from random import shuffle 
 from tqdm import tqdm 
-#hjkhjkhjkhjk
+
 '''Setting up the env'''
 
 TRAIN_DIR = 'E:/dataset / Cats_vs_Dogs / train'
