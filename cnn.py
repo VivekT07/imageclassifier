@@ -14,7 +14,7 @@ TRAIN_DIR = 'E:/dataset / Cats_vs_Dogs / train'
 TEST_DIR = 'E:/dataset / Cats_vs_Dogs / test1'
 IMG_SIZE = 50
 LR = 1e-3
-
+#coooooool
 
 '''Setting up the model which will help with tensorflow models'''
 MODEL_NAME = 'dogsvscats-{}-{}.model'.format(LR, '6conv-basic') 
