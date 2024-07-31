@@ -1,6 +1,5 @@
 # Python program to create 
 # Image Classifier using CNN 
-#hhhh
 # Importing the required libraries 
 import cv2 
 import os 
